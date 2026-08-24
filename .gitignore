@@ -1,0 +1,10 @@
+# Never commit private keys or recovered room keys.
+e2e-identity.json
+e2e-session.json
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
